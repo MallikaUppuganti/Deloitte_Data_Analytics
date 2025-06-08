@@ -75,7 +75,7 @@ What I did:
  🎯 KPI Design — Created summary insights
  
   
-## 💼 Why This Project Matters
+## ✨ Why This Project Matters
 
 This project demonstrates how I, as a data analyst, translate business questions into structured insights using the right tools. It shows:
 
