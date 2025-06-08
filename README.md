@@ -1,8 +1,7 @@
 # 💼Deloitte Data Analytics Simulation
 ### Role: Data Analyst
 ### Tools Used: Tableau, Excel
-### Skills Applied: Data Cleaning · Exploratory Analysis · Data Visualization · Business Logic Design · Insight Communication
-
+### Skills Applied: Data Cleaning · Exploratory Analysis · Data Visualization · Business Logic Design
 ## 📌 Project Overview
 In this project, I am a Data Analyst working with two real-world datasets focused on manufacturing operations and gender pay equality. The goal was to extract actionable insights using data analysis and visualization — assisting business stakeholders in understanding risks, performance gaps and compliance issues.
 
@@ -87,6 +86,6 @@ This project demonstrates how I, as a data analyst, translate business questions
 
 * Strong foundations in ethical analytics — including bias detection and fairness analysis
 
-
+### Project by: Mallika Uppuganti
 
 
